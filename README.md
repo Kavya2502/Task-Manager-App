@@ -36,6 +36,13 @@ src/
  ├── index.js
  ├── App.css
 ```
+🧠 Assumptions & Trade-offs
+
+- This implementation focuses on core functionality (adding tasks) without advanced features like authentication or task editing/deletion.
+- A simple backend setup is used to keep the application lightweight and easy to understand.
+- Minimal styling is applied, prioritizing functionality over UI design.
+- Basic error handling is included; edge cases and validations are kept simple for brevity.
+- Assumed the app will run locally with the frontend and backend on standard ports.
 
 👩‍💻 Author
 
